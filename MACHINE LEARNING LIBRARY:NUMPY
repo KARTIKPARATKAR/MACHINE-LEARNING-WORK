@@ -1,0 +1,232 @@
+import numpy as np          #importing numpy as np
+     
+This is checking whether python list takes more time than numpy array or not.
+
+
+pylist=[i for i in range(100000)]
+from time import process_time
+tstart=process_time()
+pylist=[i+5 for i in pylist]
+tend=process_time()
+print(tend-tstart)   #This is for python list
+     
+0.013889154999999986
+
+p=np.array([i for i in range(100000)])
+from time import process_time
+t1=process_time()
+p=p+5
+t2=process_time()
+print(t2-t1)       #This time is for numpy array
+#Surely we can conclude that numpy array takes less time to do any operation than normal python list
+     
+0.0004961639999998546
+
+#declaring list
+list1=[1,2,3,4,5]
+print(list1)          #This will give the elements of an list separated by quamas
+type(list)
+nparray=np.array([1,2,3,4,5])
+print(nparray)      #This will give the elements of an numpy array without quamas.Numpy arrays are like matrices
+type(nparray)
+     
+[1, 2, 3, 4, 5]
+[1 2 3 4 5]
+numpy.ndarray
+
+#creating one directional array
+a=np.array([1,2,3,4])
+print(a)
+type(a)
+     
+[1 2 3 4]
+numpy.ndarray
+
+a.shape    #this shape function gives the dimensions of numpy array.Here in this case we have 4*1 array.
+     
+(4,)
+
+#creating 2d array
+b=np.array([(1,2,3,4,5),(6,3,7,4,1)])
+print(b)
+b.shape    #This shape function will guve the shape of this numpy array matix as 2*
+     
+[[1 2 3 4 5]
+ [6 3 7 4 1]]
+(2, 5)
+
+c=np.array([(1,2,3,4.3),(2,1.6,3.4,2)],dtype=float)   #By mentioning dt=float,we can create the nparay as float
+print(c)
+     
+[[1.  2.  3.  4.3]
+ [2.  1.6 3.4 2. ]]
+Placeholders in numpy-array
+
+
+#create numpy array of zeroes
+d=np.zeros([5,6])   #This will create the array of 5*6 dimension having all the values as 0.
+print(d)
+     
+[[0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0.]]
+
+#create numpy array of ones
+e=np.ones([3,4])  #This will create the numpy arry of ones having dimension as 3*4
+print(e)
+     
+[[1. 1. 1. 1.]
+ [1. 1. 1. 1.]
+ [1. 1. 1. 1.]]
+
+#create numpy array of any value
+e=np.full([4,5],5)  #This will create the array of dimenson 4*5 having all the values as 5
+print(e)
+     
+[[5 5 5 5 5]
+ [5 5 5 5 5]
+ [5 5 5 5 5]
+ [5 5 5 5 5]]
+
+#creating identity matrix having all the digonal values as one and other vales as 1
+f=np.eye(5)   #this will give identity matrix of 5*5
+print(f)
+     
+[[1. 0. 0. 0. 0.]
+ [0. 1. 0. 0. 0.]
+ [0. 0. 1. 0. 0.]
+ [0. 0. 0. 1. 0.]
+ [0. 0. 0. 0. 1.]]
+
+#creating numpy array with random value
+g=np.random.random([3,4])
+print(g)                  #here all the random values are between 0 and 1
+     
+[[0.27440159 0.22197781 0.667234   0.00677522]
+ [0.70413388 0.70013694 0.99041544 0.21953648]
+ [0.17801777 0.62273834 0.13867509 0.4118813 ]]
+
+#creating numpy array with random values on greatwe than 1
+h=np.random.randint(10,199,[3,4])  #random values will be between 10 and 199 having dimension of array 3*4
+print(h)
+     
+[[ 27 167  16 169]
+ [ 56 127 186  88]
+ [ 29 124  33 184]]
+
+#creating array of evenly spaced values
+i=np.linspace(10,210,5)  #Creating array of random numbers having evenly spaced between 10 to 210 which contains 5 numbers
+print(i)
+     
+[ 10.  60. 110. 160. 210.]
+
+#creating array of evenly spaced values having steps
+j=np.arange(10,30,5)   #Creating array of random numbers having spaced 5 between 10 and 30
+print(j)
+     
+[10 15 20 25]
+
+#convert list to an numpy array
+l2=[10,20,30,40,50]
+k=np.asarray(l2)  #This is a function to convert list to numpy array
+print(k)
+type(k)
+     
+[10 20 30 40 50]
+numpy.ndarray
+Analyzing numpy array
+
+
+m = np.random.randint(10,100,(4,4))
+print(m)
+     
+[[57 74 62 41]
+ [81 27 85 24]
+ [22 52 81 76]
+ [20 53 53 60]]
+
+#array dimension
+m.shape
+     
+(4, 4)
+
+#no of dimension
+m.ndim   #m is a 2 dimensional array
+     
+2
+
+#no of elements in array
+m.size
+     
+16
+
+#data types of values in array
+m.dtype
+     
+dtype('int64')
+Mathematical operations that can be performed on array
+
+
+li=[1,2,3,4,5]
+li2=[6,7,8,9,10]
+print(li+li2)   #In case of python list, + symbol means that you concatinate two lists. This + symbol doesnt add the elements index wise
+     
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+n=np.array([1,2,3,4,5,6])
+o=np.array([7,5,6,8,1,2])
+print(n+o)    #In case of numpy array, + symbol means that you are adding elements index wise. This is also known as numpy array addition.
+     
+[ 8  7  9 12  6  8]
+
+print(n+o) #nparray addition
+print(n-o) #nparray subtraction
+print(n*o) #nparray multiplication
+print(n/o) #nparray division
+
+     
+[ 8  7  9 12  6  8]
+[-6 -3 -3 -4  4  4]
+[ 7 10 18 32  5 12]
+[0.14285714 0.4        0.5        0.5        5.         3.        ]
+Array manupulation
+
+
+p=np.random.randint(0,20,(2,4))
+print(p)
+print(p.shape)
+     
+[[ 1  6 15  3]
+ [19  4 13 17]]
+(2, 4)
+
+#transpose of matrix
+q=np.transpose(p)
+print(q)
+print(q.shape)
+     
+[[ 1 19]
+ [ 6  4]
+ [15 13]
+ [ 3 17]]
+(4, 2)
+
+#reshaping array
+r=np.random.randint(10,40,(3,4))
+print(r)
+print(r.shape)
+s=r.reshape(4,3)
+print(s)
+print(s.shape)
+     
+[[19 11 20 21]
+ [17 22 23 10]
+ [32 19 37 27]]
+(3, 4)
+[[19 11 20]
+ [21 17 22]
+ [23 10 32]
+ [19 37 27]]
+(4, 3)
