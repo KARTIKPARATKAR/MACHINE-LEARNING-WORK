@@ -1,2 +1,1 @@
-# MY-MACHINE-LEARNING-WORK
-I have worked on the machine learning library NUMPY(Numerical Python).Numpy is used for working with python arrays.
+Currently i am working on machine learning and deep learning models. Whatever i will be doing to learn machine learning , deep learning and python, i will post it on this repository. Contribute to my work for better learning process.....!
