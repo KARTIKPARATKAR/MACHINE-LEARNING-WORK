@@ -5,7 +5,7 @@ Currently i am working on machine learning and deep learning models. Whatever i 
   Checkout work done in NUMPY library [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/b5a4bdcfde35d6e9461cb9a7113c5b04043e70ea/NUMPY%20LIBRARY) 
 
 2) Pandas library for data manupulation and analysis.
-   Checkout work done in Pandas [here](
+   Checkout work done in Pandas [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb)
   
 3)Matplotlib library for for creating static, animated, and interactive visualizations in Python.
 
