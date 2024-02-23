@@ -2,21 +2,21 @@ Currently i am working on machine learning and deep learning models. Whatever i 
 
 1)Starting with the journey of learning machine learning and deep learning, I have learned python library called NUMPY. 
 
-  Checkout work done in NUMPY library [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/b5a4bdcfde35d6e9461cb9a7113c5b04043e70ea/NUMPY%20LIBRARY) 
+  Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/b5a4bdcfde35d6e9461cb9a7113c5b04043e70ea/NUMPY%20LIBRARY) 
 
 2)Pandas library for data manupulation and analysis.
 
-Checkout work done in Pandas [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb)
+Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb)
 
 Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/BostonHousing.csv).
   
 3)Matplotlib library for for creating static, animated, and interactive visualizations in Python.
 
-  Checkout work done in MATPLOTLIB library [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/MATPLOTLIB.ipynb)
+  Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/MATPLOTLIB.ipynb)
 
 4)Seaborn library for high level interface for drawing attractive and informative ststistical graphics.
   
- Checkout work done in Seaborn library [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/Seaborn.ipynb)
+ Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/Seaborn.ipynb)
 
 5)How to handle the missing values and how to use dropna and fillna function in machine learning is done here
 
