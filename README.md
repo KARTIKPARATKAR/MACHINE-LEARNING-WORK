@@ -33,3 +33,7 @@ Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/mai
 8)Splitting the given data into training data and testing data using train_test_split function.
 
 Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/TrainTestSplitTheData.ipynb)
+
+9)HandlingImbalancedDataset-Feeding similar no of dataframes of true or false to the machine learning model.
+
+Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HandelingImbalancedDataset.ipynb)
