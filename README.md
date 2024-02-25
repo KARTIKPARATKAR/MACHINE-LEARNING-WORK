@@ -25,3 +25,7 @@ Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARN
 6)This will tell you how can we standardize the data so as to feed it to the machine learning model.
 
 Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/DataStandardization.ipynb)
+
+7)Label Encoding is used to convert categorical column into numerical ones so as to feed it to the machine learning model.
+
+Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LabelEncoding.ipynb)
