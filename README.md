@@ -36,7 +36,7 @@ Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/mai
 
 9)HandlingImbalancedDataset-Feeding similar no of dataframes of true or false to the machine learning model.
 
-Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HandelingImbalancedDataset.ipynb
+Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HandelingImbalancedDataset.ipynb)
 
 10)Numerical Dataset Preprocessing is done in this workbook.
 
