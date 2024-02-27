@@ -41,3 +41,6 @@ Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/mai
 10)Numerical Dataset Preprocessing is done in this workbook.
 
 Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/NumericalDatasetPreprocessing.ipynb)
+
+11) Text Data Preprocessing-
+    Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/TextDatasetPreprocessing.ipynb).
