@@ -3,7 +3,7 @@ Currently i am working on machine learning and deep learning models. Whatever i 
 1)Starting with the journey of learning machine learning and deep learning, I have learned python library called NUMPY. 
 
   Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/3_1_numpy(numerical_python).ipynb) <br/>
-  Checkout [here](https://colab.research.google.com/drive/1ui_4s17KkaTtFbGoexJJK4KPT_L2jW8C?usp=sharing)
+  Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/NumpyPractice.ipynb)
 
 2)Pandas library for data manupulation and analysis.
 
