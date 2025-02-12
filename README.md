@@ -19,7 +19,8 @@ Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARN
 
 4)Seaborn library for high level interface for drawing attractive and informative ststistical graphics.
   
- Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/Seaborn.ipynb)
+ Checkout_main [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/Seaborn.ipynb) <br/>
+ Checkout_Practice- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SeabornPractice.ipynb)
 
 5)How to handle the missing values and how to use dropna and fillna function in machine learning is done here
 
