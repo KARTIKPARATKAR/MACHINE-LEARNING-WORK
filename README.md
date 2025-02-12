@@ -14,7 +14,8 @@ Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARN
   
 3)Matplotlib library for for creating static, animated, and interactive visualizations in Python.
 
-  Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/MATPLOTLIB.ipynb)
+  Checkout_Main- [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/MATPLOTLIB.ipynb)
+  Checkout_Practice- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MatplotlibPractice.ipynb)
 
 4)Seaborn library for high level interface for drawing attractive and informative ststistical graphics.
   
