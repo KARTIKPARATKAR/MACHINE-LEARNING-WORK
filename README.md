@@ -7,7 +7,8 @@ Currently i am working on machine learning and deep learning models. Whatever i 
 
 2)Pandas library for data manupulation and analysis.
 
-Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb)
+Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb) <br/>
+Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/PandasPractice.ipynb)
 
 Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/BostonHousing.csv).
   
