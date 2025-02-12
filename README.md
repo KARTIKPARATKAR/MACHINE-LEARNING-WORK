@@ -2,13 +2,13 @@ Currently i am working on machine learning and deep learning models. Whatever i 
 
 1)Starting with the journey of learning machine learning and deep learning, I have learned python library called NUMPY. 
 
-  Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/3_1_numpy(numerical_python).ipynb) <br/>
-  Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/NumpyPractice.ipynb)
+  Checkout Main [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/3_1_numpy(numerical_python).ipynb) <br/>
+  Checkout Practice [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/NumpyPractice.ipynb)
 
 2)Pandas library for data manupulation and analysis.
 
-Checkout [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb) <br/>
-Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/PandasPractice.ipynb)
+Checkout Main [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/PANDAS.ipynb) <br/>
+Checkout Practice [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/PandasPractice.ipynb)
 
 Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/BostonHousing.csv).
   
