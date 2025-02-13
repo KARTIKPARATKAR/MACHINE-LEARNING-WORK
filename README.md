@@ -26,7 +26,7 @@ Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARN
 
   Chechout Main- [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/HandlingMissingValues.ipynb) <br/>
 
-  Checkout Main- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/handlingmissingvaluesbyimputationanddropping.ipynb)
+  Checkout Practice- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/handlingmissingvaluesbyimputationanddropping.ipynb)
 
 6)This will tell you how can we **standardize the data** so as to feed it to the machine learning model.
 
