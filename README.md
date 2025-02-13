@@ -24,7 +24,7 @@ Boston housing dataset [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARN
 
 5)How to handle the missing values and how to use **dropna and fillna function** in machine learning is done here
 
-  Chechout Main- [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/HandlingMissingValues.ipynb)
+  Chechout Main- [here](https://github.com/KARTIKPARATKAR/MY-MACHINE-LEARNING-WORK/blob/main/HandlingMissingValues.ipynb) <br/>
 
   Checkout Main- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/handlingmissingvaluesbyimputationanddropping.ipynb)
 
