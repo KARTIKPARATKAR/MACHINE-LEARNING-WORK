@@ -35,7 +35,8 @@ Checkout Practice- [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WOR
 
 7)**Label Encoding** is used to convert categorical column into numerical ones so as to feed it to the machine learning model.
 
-Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LabelEncoding.ipynb)
+Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LabelEncoding.ipynb) <br/>
+Checkout Preactice [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/labelencoding.ipynb)
 
 8)Splitting the given data into training data and testing data using **train_test_split function**.
 
