@@ -19,6 +19,6 @@ Mathematical Based Approach: Magnitude and Direction.
                              vector p = 3i^ + 2j^
                              Here 3 and 2 are magnitude and i^ and j^ are direction.
 
-Computer Science Based Approach: We can represent vector in list as follows:
+Computer Science Based Approach: We can represent vector in list or array of values as follows:
                                  p=[3,2](1 row 2 columns)   or p=[3
                                                                   2 ] (2 rows and 1 columns)
