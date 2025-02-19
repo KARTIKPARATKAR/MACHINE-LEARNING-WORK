@@ -9,3 +9,16 @@ a)Linear Algebra-Vectors and Matrix
 b)Statistics - For understanding the data. For dtat analytics.
 c)Probability - Likelihood of some decision. We will be getting output of ml model in probability.
 d)Calculus - Differential and Integral calculus. Concept like Gradient Descent.
+
+
+Vectors:
+Physics Based Approch: Speed is scalar as we dont define direction when we tell speed to someone.
+                       Velocity is vector as we define direction when we tell velocity to someone.
+
+Mathematical Based Approach: Magnitude and Direction.
+                             vector p = 3i^ + 2j^
+                             Here 3 and 2 are magnitude and i^ and j^ are direction.
+
+Computer Science Based Approach: We can represent vector in list as follows:
+                                 p=[3,2](1 row 2 columns)   or p=[3
+                                                                  2 ] (2 rows and 1 columns)
