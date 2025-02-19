@@ -1,6 +1,6 @@
 3 main piller of ML-
 a)Data(Statistics,Linear Algebra,Matrix)
-b)Model
+b)Model(Different ML models)
 c)Training(For Optimize the ml model we need to do lot of tweeking and this is where calculus will help us)
 
  
