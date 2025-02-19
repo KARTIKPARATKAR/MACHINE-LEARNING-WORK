@@ -76,7 +76,7 @@ Stay tuned for more updates! 🚀
 If you have any suggestions or improvements, feel free to open a **Pull Request** or **Raise an Issue**.
 
 ## 📩 Contact
-For any queries, reach out to me on **GitHub Discussions** or email.
+For any queries, reach out to me on **[Linkedin](https://www.linkedin.com/in/kartik-paratkar-91917222b/)** or email.
 
 ---
 
