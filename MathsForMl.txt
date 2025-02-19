@@ -1,0 +1,11 @@
+3 main piller of ML-
+a)Data(Statistics,Linear Algebra,Matrix)
+b)Model
+c)Training(For Optimize the ml model we need to do lot of tweeking and this is where calculus will help us)
+
+ 
+4 subfilelds of ML:
+a)Linear Algebra-Vectors and Matrix
+b)Statistics - For understanding the data. For dtat analytics.
+c)Probability - Likelihood of some decision. We will be getting output of ml model in probability.
+d)Calculus - Differential and Integral calculus. Concept like Gradient Descent.
