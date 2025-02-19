@@ -53,3 +53,6 @@ Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/mai
 
 11)**Text Data Preprocessing**-
     Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/TextDatasetPreprocessing.ipynb).
+
+12)**Mathematics For Machine Learning**
+      Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MathsForMl.txt).
