@@ -56,4 +56,5 @@ Checkout [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/mai
 
 12)**Mathematics For Machine Learning**
   <br/>  Checkout Imp topics [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MathsForMl.txt).  <br/>
-      Vector Basics [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/VectorOperationsINPython.ipynb).
+      Vector Basics [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/VectorOperationsINPython.ipynb). >br/>
+      Vector Cross and Dot Product [here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/VectoDotAndCrossProducts.ipynb).
