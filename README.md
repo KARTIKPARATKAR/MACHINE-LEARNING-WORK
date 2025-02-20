@@ -65,6 +65,7 @@ Cleaning and preparing text data for ML models.
 - **Matrix Basics:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MatrixInMachineLearning.ipynb)
 - **Matrix Operations:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MatrixOperations.ipynb)
 - **Statistics Notes:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/StatisticsNotes.ipynb)
+-  **Probability Notes:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ProbabilityNotes.ipynb)
 
 ---
 
