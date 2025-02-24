@@ -70,7 +70,7 @@ Cleaning and preparing text data for ML models.
 ### 📐 13. Machine Learning Overview and Basics
 - **Machine Learning Models:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Machine_Learning_Models.ipynb)
 -  **Supervised Machine Learning:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Supervised_Learning_Algorithms.ipynb)
--  **Unsupervised Machine Learning Modles:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Unsupervised_Machine_Learning_Models.ipynb)
+-  **Unsupervised Machine Learning Models:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Unsupervised_Machine_Learning_Models.ipynb)
 
 ---
 
