@@ -67,6 +67,9 @@ Cleaning and preparing text data for ML models.
 - **Statistics Notes:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/StatisticsNotes.ipynb)
 -  **Probability Notes:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ProbabilityNotes.ipynb)
 
+### 📐 13. Machine Learning Overview and Basics
+- **Supervised Machine Learning:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Supervised_Learning_Algorithms.ipynb)
+- **Machine Learning Models:** [Click Here](
 ---
 
 ## 🎯 Future Updates
