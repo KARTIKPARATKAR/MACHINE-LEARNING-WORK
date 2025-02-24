@@ -74,6 +74,7 @@ Cleaning and preparing text data for ML models.
 -  **Model Selection:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/Model_Selection.ipynb)
 -  **Overfitting and Underfitting** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/OverfittingAndUnderfitting.ipynb)
 -  **Bias-Variance-Tradeoff** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BIasVarianceTradeoff.ipynb)
+-  **Loss Function** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LossFunction.ipynb)
 
 ---
 
