@@ -79,6 +79,7 @@ Cleaning and preparing text data for ML models.
 - **Loss Function:** [Click Here ➝](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LossFunction.ipynb)
 - **Model Evaluation:** [Click Here ➝](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ModelEvaluation.ipynb)
 - **Parameters&Hyperparameter:** [Clicke Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ModelParametersAndHyperparameters.ipynb)
+- **GradientDescent:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradientDescent.ipynb)
 
 ---
 ---
