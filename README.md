@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Journey
 
-Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting my journey of learning **Machine Learning, Deep Learning, and Python**. Everything I practice and explore will be posted here for reference and learning purposes.
+Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting my journey of learning **Machine Learning and Python**. Everything I practice and explore will be posted here for reference and learning purposes.
 
 ---
 
@@ -87,9 +87,6 @@ Cleaning and preparing text data for ML models.
 
 ---
 ---
-
-## 🎯 Future Updates
-🔹 Deep Learning Models 🔹 Advanced Feature Engineering 🔹 Hyperparameter Tuning 🔹 Neural Networks 🔹 Deployment Strategies
 
 Stay tuned for more updates! 🚀
 
