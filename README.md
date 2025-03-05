@@ -8,7 +8,8 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 
 ### 📊 0. Machine Learning Interview Preparation-
 Machine learning questions that can be asked are involved in this section.
-- **Basic Questions:** [Click Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MachineLearningInterviewPreparation.ipynb)
+- **Basic Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MachineLearningInterviewPreparation.ipynb)
+- **Moderate Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/InterviewQuestionsForML_Interview.ipynb)
 
 ### 📊 1. NumPy - Numerical Python
 NumPy is a powerful library for numerical computing in Python.
