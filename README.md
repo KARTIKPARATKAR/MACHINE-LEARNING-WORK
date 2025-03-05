@@ -90,7 +90,7 @@ Cleaning and preparing text data for ML models.
 - **Gradient Descent In Linear Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradeientDescentInLinearRegression.ipynb)
 - **Logistic Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LogisticRegression.ipynb)
 - **Logistic Regression Loss and Cost function along with Gradient Descent:** [Click Here---->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LogisticRegression_Loss%26Cost_Function_with_Gradient_Descent.ipynb)
-- **Support Vector Machine:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/commit/088c8936c419b4008c51185c86735c9dc0d7bf1c)
+- **Support Vector Machine:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SupportVectorMachine.ipynb)
 
 ---
 ---
