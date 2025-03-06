@@ -1,0 +1,52 @@
+Here test_size means how much percentage of data you want to use for test.
+If test_size is 0.2 means 20% of data will be used for testing and 80% of data will be used for training the machine learning model.
+When we train the model with different classification algorithm like LogisticRegression(LR),SUpport Vector Machine(SVM),Naive-Bayes-Classifier(NBC),
+Decision Tress- Classifier(DTC),Random Forest Classifier(RFC) and lastly K-Nearest-Neighbors classifier, we got different accuracy score on different 
+trest_size which is as follows-
+
+
+
+| Model | Test Size 0.2 | Test Size 0.25 | Test Size 0.3 |
+|-------|---------------|----------------|---------------|
+| LR    | 0.9298        | 0.9371         | 0.9181        |
+| SVM   | 0.9474        | 0.9510         | 0.9532        |
+| NBC   | 0.9386        | 0.9301         | 0.9415        |
+| DTC   | 0.9123        | 0.9301         | 0.9357        |
+| RFC   | 0.9386        | 0.9441         | 0.9532        |
+| KNN   | 0.9123        | 0.9231         | 0.9181        |
+
+
+We got the highest accuracy_score on testing data when we kept test size at 0.3 and used Support Vector Machine 
+and that accuracy is 0.9532 i.e. ~=95%
+
+
+
+Consider Support-Vector-Machine Algorithm,
+When test_size is 0.3 and kernel function is linear , we got accuracy of 0.9532 .
+When test_size is 0.3 and kernel function is polimomial with degree 3 and coef of 1 , we got accuracy of 0.9181286549707602 .
+When test_size is 0.3 and kernel function is rbf(Radial Basis Function) , we got accuracy of 0.9122807017543859 .
+When test_size is 0.3 and kernel function is sigmoid , we got accuracy of 0.49122807017543857 .
+So here we conclude that We got highest accuracy on linear kernel function in case of Support-Vector-Machine
+
+
+
+Consider Decision-Tress Algorithm,
+When test_size is 0.3 and criterion is entropy , we got accuracy of 0.9298245614035088 .
+When test_size is 0.3 and criterion is entropy with random_state = NONE, we got accuracy of 0.935672514619883 .
+
+
+Consider Random-Forest Algorithm,
+When test_size is 0.3 with n_estimators=100, random_state=42, we got accuracy of 0.9532163742690059
+When test_size is 0.3 with n_estimators=200, random_state=42, we got accuracy of 0.9532163742690059
+When test_size is 0.3 with n_estimators=200, random_state=42, we got accuracy of 0.9532163742690059
+When test_size is 0.3 with n_estimators=200, random_state=20, we got accuracy of 0.9473684210526315
+When test_size is 0.3 with n_estimators=200, random_state=60, we got accuracy of 0.9532163742690059
+When test_size is 0.3 with n_estimators=200, random_state=80, we got accuracy of 0.9590643274853801
+When test_size is 0.3 with n_estimators=200, random_state=100, we got accuracy of 0.9532163742690059
+
+Consider K-Nearest-Neighbors Algorithm-
+When test_size is 0.3 with k value at 5 , we got accuracy of 0.9181286549707602
+When test_size is 0.3 with k value at 4 , we got accuracy of 0.9239766081871345
+When test_size is 0.3 with k value at 3 , we got accuracy of 0.9122807017543859
+When test_size is 0.3 with k value at 2 , we got accuracy of 0.8947368421052632
+
