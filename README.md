@@ -12,7 +12,7 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 - **Project 2 - Sonar Rock vs Mine Prediction Using Machine Learning-->**  </br> [Logistic Regression Model][Click Here-->](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
 - **Project 3 - Breast Cancer Prediction Using Machine Learning-->** [Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerClassificationUsingLR_SVM_DT_RF.ipynb)</br> [Breast Cancer Prediction is basically a classification problem in which we have to predict the tissue is a cancer one or non-cancer one. We have used different classification algorithms like Logistic Regression,Support-Vector-Machine,Decision Tree Classifier,Naive-Bayes Classifier and K-Nearest-Neighbor classifier.We used different parameter values for all the classification algorithms and found out accuracy score on test data which can be seen-->.] [Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerPrediction.txt)
 
-### 📊 0. Machine Learning Interview Preparation-
+### 💡 0. Machine Learning Interview Preparation-
 Machine learning questions that can be asked are involved in this section.
 - **Basic Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MachineLearningInterviewPreparation.ipynb)
 - **Moderate Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/InterviewQuestionsForML_Interview.ipynb)
