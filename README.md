@@ -6,6 +6,11 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 
 ## 📌 Topics Covered
 
+### 📊 Machine Learning Projects-->
+
+- **Project 1 - Fake News Detection Using Machine Learning** [Click Here](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/blob/main/Project_Fake_News_Detection_.ipynb)
+- **Project 2 - Sonar Rock vs Mine Prediction Using Machine Learning** [Click Here](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
+
 ### 📊 0. Machine Learning Interview Preparation-
 Machine learning questions that can be asked are involved in this section.
 - **Basic Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MachineLearningInterviewPreparation.ipynb)
