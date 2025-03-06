@@ -10,6 +10,7 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 
 - **Project 1 - Fake News Detection Using Machine Learning-->** </br>[Logistic Regression Model][Click Here-->](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/blob/main/Project_Fake_News_Detection_.ipynb)
 - **Project 2 - Sonar Rock vs Mine Prediction Using Machine Learning-->** </br> [Logistic Regression Model][Click Here-->](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
+- **Project 3 - Breast Cancer Classification Using Machine Learning-->** </br> [Logistic Regression Model] [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerClassificationUsingLogisticRegression.ipynb)
 
 ### 📊 0. Machine Learning Interview Preparation-
 Machine learning questions that can be asked are involved in this section.
