@@ -1,8 +1,8 @@
 Here test_size means how much percentage of data you want to use for test.
 If test_size is 0.2 means 20% of data will be used for testing and 80% of data will be used for training the machine learning model.
-When we train the model with different classification algorithm like LogisticRegression(LR),SUpport Vector Machine(SVM),Naive-Bayes-Classifier(NBC),
-Decision Tress- Classifier(DTC),Random Forest Classifier(RFC) and lastly K-Nearest-Neighbors classifier, we got different accuracy score on different 
-trest_size which is as follows-
+When we train the model with different classification algorithm like LogisticRegression(LR),Support Vector Machine(SVM),Naive-Bayes-Classifier(NBC),
+Decision-Tress-Classifier(DTC),Random Forest Classifier(RFC) and lastly K-Nearest-Neighbors classifier, we got different accuracy score on different 
+test_size which is as follows-
 
 
 
