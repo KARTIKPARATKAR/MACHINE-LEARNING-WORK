@@ -94,6 +94,7 @@ Cleaning and preparing text data for ML models.
 - **GradientDescent:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradientDescent.ipynb)
 
 ### 14. Machine Learning Models 
+- **Regression VS Classification** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/RegressionVSClassification.ipynb)
 - **Linear Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LinearRegressionModel.ipynb)
 - **Gradient Descent In Linear Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradeientDescentInLinearRegression.ipynb)
 - **Logistic Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LogisticRegression.ipynb)
