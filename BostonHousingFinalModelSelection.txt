@@ -1,0 +1,16 @@
+MODEL                | R2 Score          | Mean Absolute Error
+---------------------------------------------------------------
+XGBoost              | 0.9027            | 2.0606
+Linear Regression    | 0.7899            | 3.0999
+Ridge Regression     | 0.7857            | 3.1309
+Lasso Regression     | 0.7895            | 3.0998
+Decision Tree        | 0.7895            | 3.0998
+Random Forest        | 0.8832            | 2.1967
+
+
+
+
+For choosing a regression model for final consideration,find out the model having higher
+R2_score value and lower Mean_Absolute_Value.
+R2_score indicates how well the model explains variance in the target variable.
+Mean_Absolute_Error measures the average absolute difference between actual and predicted values.
