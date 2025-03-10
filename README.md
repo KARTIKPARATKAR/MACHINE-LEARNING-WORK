@@ -9,6 +9,7 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 ### 🧠 Machine Learning Projects-->
 
 - **Project 1 - Fake News Detection Using Machine Learning-->** </br>[Logistic Regression Model][Click Here-->](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/blob/main/Project_Fake_News_Detection_.ipynb)
+  
 - **Project 2 - Sonar Rock vs Mine Prediction Using Machine Learning-->**  </br> [Logistic Regression Model][Click Here-->](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
 - **Project 3 - Breast Cancer Prediction Using Machine Learning-->** [Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerClassificationUsingLR_SVM_DT_RF.ipynb)</br> [Breast Cancer Prediction is basically a classification problem in which we have to predict the tissue is a cancer one or non-cancer one. We have used different classification algorithms like **Logistic Regression,Support-Vector-Machine,Decision Tree Classifier,Naive-Bayes Classifier and K-Nearest-Neighbor classifier**.We used different parameter values for all the classification algorithms and found out accuracy score on test data which can be seen-->.] [Here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerPrediction.txt)
 - **Project 4 - Diabetes Prediction using Machine Learning-->** </br> [Support Vector Machine Model][Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DiabetesPrediction.ipynb)
