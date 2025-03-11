@@ -106,6 +106,7 @@ Cleaning and preparing text data for ML models.
 - **SVM [Kernels,Loss Function & Gradient Descent]:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SupportVectorMachine(Kernels%2CLoss_Function_%26_Gradient_Descent).ipynb)
 - **Lasso[Least Absolute Shrinkage and Selection Operator]:** [Clicke Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LassoRegression.ipynb)
 - **KNN [K-Nearest Neighbors]:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_Nearest_Neighbors(KNN).ipynb)
+- **Decision Tree:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DecisionTress.ipynb)
 
 ---
 ---
