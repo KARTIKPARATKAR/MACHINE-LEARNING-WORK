@@ -103,7 +103,7 @@ Cleaning and preparing text data for ML models.
 - **Logistic Regression:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LogisticRegression.ipynb)
 - **Logistic Regression Loss Fn,Cost Fn & Gradient Descent:** [Click Here---->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LogisticRegression_Loss%26Cost_Function_with_Gradient_Descent.ipynb)
 - **Support Vector Machine:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SupportVectorMachine.ipynb)
-- **SVM [Kernels,Loss Function & Gradient Descent]:** [CLick Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SupportVectorMachine(Kernels%2CLoss_Function_%26_Gradient_Descent).ipynb)
+- **SVM [Kernels,Loss Function & Gradient Descent]:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/SupportVectorMachine(Kernels%2CLoss_Function_%26_Gradient_Descent).ipynb)
 - **Lasso[Least Absolute Shrinkage and Selection Operator]:** [Clicke Here--](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LassoRegression.ipynb)
 
 ---
