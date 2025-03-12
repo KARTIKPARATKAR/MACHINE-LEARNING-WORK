@@ -96,6 +96,7 @@ Cleaning and preparing text data for ML models.
 - **Parameters&Hyperparameter:** [Clicke Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ModelParametersAndHyperparameters.ipynb)
 - **GradientDescent:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradientDescent.ipynb)
 - **K-Fold Cross_Validation:** [Click Here--->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_FoldCrossValidation.ipynb)
+- **Hyperparameter Tunning Methods:** [Click Here--->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HyperparameterTunning.ipynb)
 
 ### 14. Machine Learning Models 
 - **Regression VS Classification** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/RegressionVSClassification.ipynb)
