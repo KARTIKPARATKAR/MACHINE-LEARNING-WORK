@@ -95,6 +95,7 @@ Cleaning and preparing text data for ML models.
 - **Model Evaluation:** [Click Here ➝](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ModelEvaluation.ipynb)
 - **Parameters&Hyperparameter:** [Clicke Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/ModelParametersAndHyperparameters.ipynb)
 - **GradientDescent:** [Click Here --->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/GradientDescent.ipynb)
+- **K-Fold Cross_Validation:** [Click Here--->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_FoldCrossValidation.ipynb)
 
 ### 14. Machine Learning Models 
 - **Regression VS Classification** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/RegressionVSClassification.ipynb)
