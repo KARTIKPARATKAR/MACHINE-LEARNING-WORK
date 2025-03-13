@@ -16,6 +16,8 @@ Welcome to my **Machine Learning Repository**! 🎯 Here, I will be documenting 
 - **Project 5 - Boston House Price Prediction Using Regression-->** [CLick Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HousePricePredictionUsingRegression.ipynb)</br>
 House Price Prediction is basically a Regression problem in which we have to predict the price of house based on availble supervised data.We have used different regression algorithms like **XGBoost,Linear-Regression,Ridge Regression,Lasso Regression,Decision Tress and Random Forest.** Evaluation result of all these algorithms can be seen -->.[here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BostonHousingFinalModelSelection.txt)
 
+- **Project 6 - Customer Segmentation using Clustering -->** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/CustomerSegmentationUsingClustering.ipynb)
+
 ### 💡 0. Machine Learning Interview Preparation-
 Machine learning questions that can be asked are involved in this section.
 - **Basic Questions:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/MachineLearningInterviewPreparation.ipynb)
