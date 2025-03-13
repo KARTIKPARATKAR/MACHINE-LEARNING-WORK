@@ -110,6 +110,7 @@ Cleaning and preparing text data for ML models.
 - **Lasso[Least Absolute Shrinkage and Selection Operator]:** [Clicke Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/LassoRegression.ipynb)
 - **KNN [K-Nearest Neighbors]:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_Nearest_Neighbors(KNN).ipynb)
 - **Decision Tree:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DecisionTress.ipynb)
+- **Clustering:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_Means_Clustering.ipynb)
 
 ---
 ---
