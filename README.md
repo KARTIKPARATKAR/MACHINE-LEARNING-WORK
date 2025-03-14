@@ -115,6 +115,7 @@ Cleaning and preparing text data for ML models.
 - **KNN [K-Nearest Neighbors]:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_Nearest_Neighbors(KNN).ipynb)
 - **Decision Tree:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DecisionTress.ipynb)
 - **Clustering:** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/K_Means_Clustering.ipynb)
+- **Dimension Reduction By Principle Component Analysis:**[Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/PrincipleComponentAnalysisForDimensionalityReduction.ipynb)
 
 ---
 ---
